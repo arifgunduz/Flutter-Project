@@ -1,4 +1,4 @@
-# flutter_lovers
+# flutter_project
 
 A new Flutter application.
 
